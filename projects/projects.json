@@ -45,7 +45,7 @@
     "image": "portfolio",
     "category": "basicweb",
     "links": {
-      "view": "#",
+      "view": "https://malindu-portfolio.vercel.app/",
       "code": "https://github.com/malindu29/portfolio-website"
     }
   },
