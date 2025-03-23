@@ -1,0 +1,73 @@
+[
+  {
+    "name": "LearnHeart",
+    "desc": "LearnHeart connects rural schools with volunteers & organizations to bridge Sri Lanka’s education gap.",
+    "image": "learnheart-home",
+    "category": "mern",
+    "links": {
+      "view": "https://learnheart.live/",
+      "code": "https://github.com/Lashen1227/LearnHeart"
+    }
+  },
+  {
+    "name": "HealthVista",
+    "desc": "Scalable MERN hospital system with secure auth, multi-token support & dual frontends for users & admins.",
+    "image": "healthvista",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/malindu29/HealthVista"
+    }
+  },
+  {
+    "name": "Event Ticketing System",
+    "desc": "A ticketing system using Java (CLI), Node.js (backend), and React (frontend)",
+    "image": "fastticket",
+    "category": "react",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/malindu29/Event-Ticketing-System"
+    }
+  },
+  {
+    "name": "Flora Pulse",
+    "desc": "Flora Pulse is a basic website built using HTML, CSS, and JavaScript for group project",
+    "image": "florapulse",
+    "category": "basicweb",
+    "links": {
+      "view": "https://flora-pulse.netlify.app/",
+      "code": "https://github.com/malindu29/Flora-Pulse-Website"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "A personal portfolio website showcasing my skills, projects, and experience with a sleek design and smooth user experience",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/malindu29/portfolio-website"
+    }
+  },
+  {
+    "name": "Plane Management System",
+    "desc": "Java Program to manage and track plane seat reservations effectively",
+    "image": "planemanagement",
+    "category": "java",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/malindu29/Plane-Management-System"
+    }
+  },
+  {
+    "name": "Homteq",
+    "desc": "Homteq - A simple PHP-based website for showcasing and managing home technology products. Lightweight, functional, and easy to customize!",
+    "image": "homteq",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/malindu29/Homteq-website"
+    }
+  }
+
+]
