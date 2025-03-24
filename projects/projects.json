@@ -68,6 +68,16 @@
       "view": "#",
       "code": "https://github.com/malindu29/Homteq-website"
     }
+  },
+  {
+    "name": "QuickCart",
+    "desc": "QuickCart provides a seamless shopping experience with a dynamic UI, real-time cart updates, and secure Stripe payment integration.",
+    "image": "quickcart",
+    "category": "basicweb",
+    "links": {
+      "view": "https://quickcart-demo.vercel.app/",
+      "code": "https://github.com/malindu29/quickcart-ecommerce"
+    }
   }
 
 ]
